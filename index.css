@@ -4,6 +4,8 @@ body {
   pad: 0;
   box-sizing: border-box;
   font-family: Lato;
+  height: 150vh;
+  border: 1px solid gray;
 }
 .bg_box_top {
   height: 15vh;
@@ -38,7 +40,8 @@ body {
   background-color: #61677a;
   display: flex;
   position: relative;
-  border-radius: 15px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
   bottom: 160px;
   left: 50px;
   display: flex;
@@ -99,18 +102,18 @@ body {
   width: 80%;
   background-color: brown;
 }
-.css {
+.react {
   width: 70%;
   background-color: brown;
 }
-.javascript {
+.node {
   width: 60%;
   background-color: brown;
 }
-.React {
+.mongodb {
   width: 70%;
   background-color: brown;
 }
-.right_section li::marker{
+.right_section li::marker {
   color: brown;
 }

@@ -1,8 +1,8 @@
 # Project Title 
 WEB RESUME 
 ## Table of Contents
-- [Project Title](#RESUME )
-- [Description](#description)
+- [RESUME](#project-title)
+- [MAKE A RESUME BY USING HTML,CSS](#description)
 - [Demo](#demo)
 - [Internship](#internship)
 - [Technologies Used](#technologies-used)
